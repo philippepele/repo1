@@ -1,2 +1,2 @@
 ## Simple repo de tests
-1. test Gemini connecion API KEY
+1. test Gemini connexion API KEY
